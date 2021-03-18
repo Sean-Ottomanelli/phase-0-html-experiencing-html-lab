@@ -1,0 +1,5 @@
+"Samoyed"
+"Jack Russel Terrier"
+"Black Lab"
+"Yellow Lab"
+"Poodle"
